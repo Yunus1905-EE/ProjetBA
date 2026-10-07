@@ -1,0 +1,14 @@
+{
+  "id": "session-1791367626136",
+  "startedAt": "2026-10-07T10:07:06.136Z",
+  "cwd": "/Users/yunuskaya/Desktop/Projet-ba/mon-app",
+  "context": {},
+  "metrics": {
+    "edits": 0,
+    "commands": 0,
+    "tasks": 0,
+    "errors": 0
+  },
+  "endedAt": "2026-10-07T10:08:08.216Z",
+  "duration": 62081
+}
